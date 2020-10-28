@@ -1,4 +1,4 @@
 ### List of contributors
-Ritik Dubey
-Ashish Sarswat
-Rajat Singh
+Manish
+Happy to contribute in the hactoberfest for the very first thanks.
+Thanks for giving us a place to contribute mr. virgat.
